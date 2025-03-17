@@ -24,15 +24,13 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ├── 📄 requirements.txt     # Liste des dépendances Python
 
 
-## 🔗 Accès à la plateforme  
+🔗 Accès à la plateforme
 
-https://challenge.datascientest.com/
+🌐 Plateforme Challenge
 
-🔑 **Identifiants de connexion** :  
-plaintext
-Username : venceslasngassam  
-Password : eUG5KaFfyI5AiZeSg2gXYw  
-
+🔑 Identifiants de connexion :
+Username: venceslasngassam
+Password: eUG5KaFfyI5AiZeSg2gXYw
 
 ## 📺 Lien du webinar  
 
