@@ -26,7 +26,7 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 
 ## 🔗 Accès à la plateforme  
 
-🌐 **[Plateforme Challenge](https://challenge.datascientest.com)**  
+https://challenge.datascientest.com/
 
 🔑 **Identifiants de connexion** :  
 ```plaintext
