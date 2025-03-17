@@ -27,6 +27,7 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ## 🔗 Accès à la plateforme  
 
 🌐 **[Plateforme Challenge](https://challenge.datascientest.com)**  
+🌐 **[Inscription Challenge](https://sorbonne-data-challenge.fr/)**  
 
 🔑 **Identifiants de connexion** :  
 ```plaintext
