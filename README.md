@@ -36,6 +36,6 @@ Password : eUG5KaFfyI5AiZeSg2gXYw
 
 ## 📺 Lien du webinar  
 
-https://pantheonsorbonne.zoom.us/rec/component-page?accessLevel=meeting&action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&requestFrom=pwdCheck&clusterId=aw1&componentName=need-password&meetingId=pgTeTfzMgVekooNbVl6Nr0wIfocGd6FsqBOWMnklAhvot9gGehNqEFlXmLHvObaV.fbTdRsy2FRU-4JTY&originRequestUrl=https%3A%2F%2Fpantheonsorbonne.zoom.us%2Frec%2Fshare%2FggCL-e_W0NPr0eNYwgGIBRY-LtBpDP_jbL5iuMt5VF6_nmOlV0M2vXuzROd_f3XL.j6zNOf9rNeXoZ6Zr)
+(doc)[https://pantheonsorbonne.zoom.us/rec/component-page?accessLevel=meeting&action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&requestFrom=pwdCheck&clusterId=aw1&componentName=need-password&meetingId=pgTeTfzMgVekooNbVl6Nr0wIfocGd6FsqBOWMnklAhvot9gGehNqEFlXmLHvObaV.fbTdRsy2FRU-4JTY&originRequestUrl=https%3A%2F%2Fpantheonsorbonne.zoom.us%2Frec%2Fshare%2FggCL-e_W0NPr0eNYwgGIBRY-LtBpDP_jbL5iuMt5VF6_nmOlV0M2vXuzROd_f3XL.j6zNOf9rNeXoZ6Zr)]
 
  **Mot de passe** : V1T#dv0R  
