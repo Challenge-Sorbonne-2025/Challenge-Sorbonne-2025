@@ -14,7 +14,7 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ---
 
 ## 📂 Structure du projet  
-``plaintext
+```plaintext
 📦 Challenge-Sorbonne-2025
 ├── 📁 data/               # Fichiers .dot (CFGs) et labels.csv
 ├── 📁 notebooks/          # Notebooks Jupyter pour l'exploration des données
@@ -24,16 +24,17 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ├── 📄 requirements.txt     # Liste des dépendances Python
 
 
-🔗 Accès à la plateforme
+## 🔗 Accès à la plateforme  
 
-🌐 Plateforme Challenge
+🌐 **[Plateforme Challenge](https://challenge.datascientest.com)**  
 
-🔑 Identifiants de connexion :
-Username: venceslasngassam
-Password: eUG5KaFfyI5AiZeSg2gXYw
+🔑 **Identifiants de connexion** :  
+```plaintext
+Username : venceslasngassam  
+Password : eUG5KaFfyI5AiZeSg2gXYw  
 
 ## 📺 Lien du webinar  
 
-[lien zoom](https://pantheonsorbonne.zoom.us/rec/component-page?accessLevel=meeting&action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&requestFrom=pwdCheck&clusterId=aw1&componentName=need-password&meetingId=pgTeTfzMgVekooNbVl6Nr0wIfocGd6FsqBOWMnklAhvot9gGehNqEFlXmLHvObaV.fbTdRsy2FRU-4JTY&originRequestUrl=https%3A%2F%2Fpantheonsorbonne.zoom.us%2Frec%2Fshare%2FggCL-e_W0NPr0eNYwgGIBRY-LtBpDP_jbL5iuMt5VF6_nmOlV0M2vXuzROd_f3XL.j6zNOf9rNeXoZ6Zr)
+🔗 **[Accéder au webinar](#)**  
 
- **Mot de passe** : V1T#dv0R  
+🔐 **Mot de passe** : `V1T#dv0R`  
