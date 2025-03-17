@@ -1,10 +1,10 @@
-# 🛡️ Challenge-Sorbonne-2025 
+# 🛡️ Challenge-Sorbonne-2025 (groupe: ESSFAR )
 ### Détection de Comportements Malveillants d’Applications Windows  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![ML](https://img.shields.io/badge/Machine%20Learning-Sklearn-green) ![Status](https://img.shields.io/badge/Status-En%20cours-orange)  
 
 ## 📌 Description du projet  
-Ce projet vise à **détecter les comportements malveillants** dans des applications Windows en analysant leurs **graphiques de flux de contrôle (CFGs)**.  
+Ce projet vise à **détecter les comportements ** dans des applications Windows en analysant leurs **graphiques de flux de contrôle (CFGs)**.  
 L’objectif est de développer un **modèle d’IA** capable de prédire si un programme effectue des **actions suspectes**, comme :  
 ✅ **Accès non autorisé à la mémoire**  
 ✅ **Communication réseau suspecte**  
