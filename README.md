@@ -36,6 +36,6 @@ Password : eUG5KaFfyI5AiZeSg2gXYw
 
 ## 📺 Lien du webinar  
 
-🔗 **[Accéder au webinar](#)**  
+ **[Accéder au webinar](#)**  
 
 🔐 **Mot de passe** : `V1T#dv0R`  
