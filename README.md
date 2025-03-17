@@ -22,7 +22,7 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ├── 📁 scripts/            # Scripts d'extraction et d'entraînement
 ├── 📄 README.md           # Documentation du projet
 ├── 📄 requirements.txt     # Liste des dépendances Python
-
+```
 
 ## 🔗 Accès à la plateforme  
 
@@ -32,7 +32,7 @@ L’objectif est de développer un **modèle d’IA** capable de prédire si un 
 ```plaintext
 Username : venceslasngassam  
 Password : eUG5KaFfyI5AiZeSg2gXYw  
-
+```
 ## 📺 Lien du webinar  
 
 🔗 **[Accéder au webinar](#)**  
